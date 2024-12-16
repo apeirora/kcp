@@ -6,6 +6,9 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kcp-dev/kcp?sort=semver)](https://img.shields.io/github/v/release/kcp-dev/kcp?sort=semver)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkcp-dev%2Fkcp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkcp-dev%2Fkcp?ref=badge_shield)
 
+## FORK
+This for is largely for collection of backlog items for the KCP specific work items in the ApeiroRA Platform Mesh. Issues will be collected and worked on so that they can be pusehd upstream into KCP Community.
+
 ## Overview
 
 kcp is a Kubernetes-like control plane focusing on:
